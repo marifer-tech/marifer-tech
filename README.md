@@ -1,4 +1,4 @@
-### Olá, eu sou a Mariana! 👩🏾‍💻
+### Hello, I'm Mariana! 👩🏾‍💻
 
 [![Blog](https://img.shields.io/website?label=Mariana-Dev.com&style=for-the-badge&url=https://mariana-silva.netlify.app/)](https://mariana-silva.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-fernanda-da-silva-42771631a/)
@@ -8,7 +8,7 @@
 
 ![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marifer-tech&show_icons=true&theme=dark)
 
-### Tecnologias que eu uso no meu dia
+### My daily Technologies 🛠️
 
 <div style="display: inline_black"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
