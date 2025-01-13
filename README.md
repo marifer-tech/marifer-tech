@@ -6,7 +6,9 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@m.silva.ti44)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://)
 
+<div style="align-items: center;">
 ![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marifer-tech&show_icons=true&theme=dark)
+</div>
 
 ### My daily Technologies 🛠️
 
